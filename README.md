@@ -64,3 +64,10 @@ Run with coverage report::
     $ coverage run -m pytest
     $ coverage report
     $ coverage html  # open htmlcov/index.html in a browser
+
+Screenshots
+----
+
+![flaskr_index](https://github.com/user-attachments/assets/41d4ee69-9d94-4559-9c98-2c3566b02994)
+![flaskr_login](https://github.com/user-attachments/assets/0e364709-3df5-4b3e-94f6-1aa2fda1d7b0)
+![flaskr_edit](https://github.com/user-attachments/assets/25438b0e-54b6-4bed-970f-5a5d85c65ce8)
